@@ -1,1 +1,1 @@
-# Python repository for daily exercises, challanges and small projects.
+# Python repository for daily exercises, challenges and small projects.
