@@ -1,2 +1,1 @@
-# Python_repo
-Python courses exercises, challanges, small projects
+# Python repository for daily exercises, challanges and small projects.
